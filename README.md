@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-### :smiley_cat: I am a student at SMK Telkom Malang
+### NandanaKB2003 Hi I am Nandana Krishna K B
 
 ### so, curently this is my first try making my readme, hope you like it 😄
 ### and, you can call me asthi or seta
